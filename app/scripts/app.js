@@ -15,7 +15,8 @@ angular
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngTouch'
+    'ngTouch', 
+    'ngMaterial'
   ])
   .constant('ENV_DEFAULT', {
   apiUrl: 'http://localhost:8080/api'
